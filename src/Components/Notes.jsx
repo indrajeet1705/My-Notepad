@@ -46,7 +46,7 @@ const Notes = () => {
                
               </div>
 
-              <div className="flex  gap-5">
+              <div className="flex flex-wrap  gap-5">
                 <button
                 
                 >
